@@ -2,10 +2,24 @@
 :root {
     --dark-grey: #333333;
     --light-grey: #808080;
+    --light-text: #e5e5e5;
+    --medium-text: #939393;
     --yellow: #FFB612;
     --red: #dc0a17;
     --green: #2FC022;
-}
+  }
+  
+  * {
+    font-family: 'Gotham';
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    height: 100%;
+    width: 100%;
+  }
 
 @font-face {
     font-family: 'Gotham';
