@@ -1,4 +1,3 @@
-import { Scheduler } from "timers/promises";
 
 export interface Location{
     id: number,
