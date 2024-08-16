@@ -1,5 +1,5 @@
 # Desafio Frontend - Smart Fit
-Smart Fit
+![Texto alternativo](/src/assets/images/svg/logo.svg)
 
 Este repositório contém a solução para o desafio de Front-end da Smart Fit desenvolvido durante o vídeo em meu canal. Eu utilizei o framework Angular para desenvolver a aplicação, e você pode assistir o vídeo onde resolvi o desafio em meu canal aqui.
 
@@ -22,9 +22,6 @@ O layout da aplicação foi baseado nos materiais disponibilizados, incluindo de
 #⚙️ Como Executar
 Para executar a aplicação localmente, siga os passos abaixo:
 
-Clone este repositório:
-  git clone https://github.com/Fernanda-Kipper/smartfit-frontend-challenge.git
-  cd smartfit-frontend-challenge
 Instale as dependências
   npm install
 Inicie a aplicação
