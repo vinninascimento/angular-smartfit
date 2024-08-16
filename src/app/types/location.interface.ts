@@ -1,5 +1,6 @@
 
 export interface Location{
+fountain: any
     id: number,
     title: string,
     content: string,
